@@ -1,0 +1,20 @@
+img{
+    border-radius: 15px;
+    max-width: 100%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.knopka{
+    padding: 8px 15px;
+    background-color: lightblue;
+    color: gray;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+}
